@@ -20,3 +20,7 @@ Dataset: [Kaggle: joebeachcapital](https://www.kaggle.com/datasets/joebeachcapit
 ```
 fix: fix foo to enable bar
 ```
+
+
+https://ieeexplore.ieee.org/abstract/document/9461759
+https://koreascience.kr/article/JAKO201714956121349.pdf
